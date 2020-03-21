@@ -1,25 +1,26 @@
-## Test 
+## SomeSum Calculator (Universal iOS App) 
 
-You can use the [editor on GitHub](https://github.com/arcdale/arcdale.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Calculator with undo / redo 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Dual main and memory displays 
 
-### Test 2
+- Multiple themes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Support for iOS 13 dark mode/light mode
 
-```markdown
-Syntax highlighted code block
+- Left-handed / right-handed landscape modes
+  - select the landscape layout most suited to your dominant hand
 
-# Header 1
-## Header 2
-### Header 3
+- Local regional decimal separator can be overriden in settings
+ 
+- iPad version adds
+  - statistical functions
+  - hyperbolic, inverse trigonometric and inverse hyperbolic functions
+  - dice and random functions
 
-- Bulleted
-- List
+[SomeSum on iOS App Store](https://apps.apple.com/us/app/somesum/id1503184279#?platform=iphone)
 
-1. Numbered
-2. List
+For support: info@arcdale.com
 
--  [Test Page 1](test01.md)	
+-  [SomeSum Privacy Policy](test01.md)	
 
