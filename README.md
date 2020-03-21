@@ -5,7 +5,7 @@
 <p align="center">
   <img src="iPhonePortrait.png" alt="SomeSum image"/>
 </p>
-<p style="text-align: center;"> 
+
 - Calculator with undo / redo 
 
 - Dual main and memory displays 
@@ -29,5 +29,3 @@
 For support: [info@arcdale.com](mailto:info@arcdale.com)    
 
 -  [SomeSum Privacy Policy](SomeSumPrivacyPolicy.md)	
-
-</p> 
