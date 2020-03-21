@@ -23,8 +23,8 @@
   - hyperbolic, inverse trigonometric and inverse hyperbolic functions
   - dice and random functions
 
-<center>[SomeSum on iOS App Store](https://apps.apple.com/us/app/somesum/id1503184279#?platform=iphone)
+[SomeSum on iOS App Store](https://apps.apple.com/us/app/somesum/id1503184279#?platform=iphone)
 
-<center>For support: [info@arcdale.com](mailto:info@arcdale.com)    
+For support: [info@arcdale.com](mailto:info@arcdale.com)    
 
-<center>  [SomeSum Privacy Policy](SomeSumPrivacyPolicy.md)	
+[SomeSum Privacy Policy](SomeSumPrivacyPolicy.md)	
