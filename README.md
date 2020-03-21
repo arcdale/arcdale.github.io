@@ -1,5 +1,7 @@
 ## SomeSum Calculator (Universal iOS App) 
 
+![iPhone img](iPhonePortrait.png)
+
 - Calculator with undo / redo 
 
 - Dual main and memory displays 
