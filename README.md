@@ -24,5 +24,5 @@
 
 For support: [info@arcdale.com](mailto:info@arcdale.com)    
 
--  [SomeSum Privacy Policy](test01.md)	
+-  [SomeSum Privacy Policy](SomeSumPrivacyPolicy.md)	
 
