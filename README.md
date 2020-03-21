@@ -22,7 +22,7 @@
 
 [SomeSum on iOS App Store](https://apps.apple.com/us/app/somesum/id1503184279#?platform=iphone)
 
-For support: info@arcdale.com
+For support: [info@arcdale.com](mailto:info@arcdale.com)    
 
 -  [SomeSum Privacy Policy](test01.md)	
 
