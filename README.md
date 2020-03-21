@@ -1,10 +1,11 @@
-<p style="text-align: center;"> 
+
 
 ## SomeSum Calculator (Universal iOS App) 
 
 <p align="center">
   <img src="iPhonePortrait.png" alt="SomeSum image"/>
 </p>
+<p style="text-align: center;"> 
 - Calculator with undo / redo 
 
 - Dual main and memory displays 
