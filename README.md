@@ -1,3 +1,5 @@
+<p style="text-align: center;"> 
+
 ## SomeSum Calculator (Universal iOS App) 
 
 <p align="center">
@@ -27,3 +29,4 @@ For support: [info@arcdale.com](mailto:info@arcdale.com)
 
 -  [SomeSum Privacy Policy](SomeSumPrivacyPolicy.md)	
 
+</p> 
