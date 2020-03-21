@@ -28,3 +28,6 @@
 For support: [info@arcdale.com](mailto:info@arcdale.com)    
 
 [SomeSum Privacy Policy](SomeSumPrivacyPolicy.md)	
+
+[arcdale.com](http://www.arcdale.com)
+
