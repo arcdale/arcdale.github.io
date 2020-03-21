@@ -1,6 +1,5 @@
 
 <center> <h2>SomeSum Calculator (Universal iOS App) </h2> </center>
-## SomeSum Calculator (Universal iOS App) 
 
 <p align="center">
   <img src="iPhonePortrait.png" alt="SomeSum image"/>
