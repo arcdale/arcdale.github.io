@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title: Ardale Software
 description: iOS App Design
 google_verify: U2JevII3aZ32WMw0FTVMVLAp_jr4Nw8kIily3HTiQpw
+bing_verify: 39ABEB6DA5EF103D9DBA2B9C836C7F70
 url: "https://arcdale.github.io" 
 plugins:
   - jekyll-sitemap
