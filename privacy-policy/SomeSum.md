@@ -23,4 +23,4 @@ If this policy were to change, then a notice of the changes will be made in the 
 ## 6) Contact
 
 
-[Home](https://arcdale.github.io/index.md)
+[Home](https://arcdale.github.io)
