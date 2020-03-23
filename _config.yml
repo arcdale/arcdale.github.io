@@ -6,4 +6,4 @@ bing_verify: 39ABEB6DA5EF103D9DBA2B9C836C7F70
 url: "https://arcdale.github.io" 
 plugins:
   - jekyll-sitemap
-permalink: /SomeSumPrivacyPolicy
+permalink: /SomeSumPrivacyPolicy:/SomeSum
