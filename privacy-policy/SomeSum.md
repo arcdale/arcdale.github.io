@@ -22,5 +22,6 @@ If this policy were to change, then a notice of the changes will be made in the 
 
 ## 6) Contact
 
+Please email: [info@arcdale.com](mailto:info@arcdale.com)  
 
 [Home](http://www.arcdale.com)
