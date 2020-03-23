@@ -27,7 +27,7 @@
 
 For support: [info@arcdale.com](mailto:info@arcdale.com)    
 
-[SomeSum Privacy Policy](SomeSumPrivacyPolicy.md)	
+[SomeSum Privacy Policy](privacy-policy/SomeSum.md)	
 
 [arcdale.com](http://www.arcdale.com)
 
