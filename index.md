@@ -16,7 +16,7 @@
 - Left-handed / right-handed landscape modes
   - select the landscape layout most suited to your dominant hand
 
-- Local regional decimal separator can be overriden in settings
+- Local regional decimal separator can be overridden in settings
  
 - iPad version adds
   - statistical functions
