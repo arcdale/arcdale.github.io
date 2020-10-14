@@ -22,9 +22,11 @@ Free space/capacity are shown by default, alternatively can show used space/capa
 
 myVolumeInfo, the iOS app that provides an overview of your connected USB drives.
 
+[myVolumeInfo on iOS App Store](https://apps.apple.com/us/app/somesum/id1535600468#?platform=iphone)
+
 For support: [info@arcdale.com](mailto:info@arcdale.com)    
 
-[myVolume Privacy Policy](privacy-policy/myVolumeInfo.md)	
+[myVolumeInfo Privacy Policy](privacy-policy/myVolumeInfo.md)	
 
 
 <center> <h2>SomeSum Calculator (Universal iOS App) </h2> </center>
