@@ -1,0 +1,103 @@
+<style>
+    #cookie-notice {padding: 0.9rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; background: #222; color: rgba(255,255,255,0.8);}
+    #cookie-notice a {display: inline-block; cursor: pointer;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice a {position: relative; bottom: 4px;}
+    }
+     span.largebanner	 {
+    display: inline-block; /* which allows you to set the height/width; but this isn't cross-browser, particularly as regards IE < 7 */
+    line-height: 2em; 
+    padding-top: 1em;
+    padding-bottom: 1em;
+ }
+
+.btn-cookie-consent {
+  background-color: #43BE1E; /* red #D9203F; *//*#2F72FF;*/
+ color: rgba(255,255,255,0.9);
+  padding: 4px 8px;
+  border-radius: 5px; }
+
+.btn-cookie-consent-link{
+  background-color: #43BE1E; /* red #D9203F; *//*#2F72FF;*/
+ color: rgba(255,255,255,0.9);
+  padding: 4px 8px;
+  border-radius: 5px; }
+
+</style>
+
+
+ <div id="cookie-notice">	
+ 	<span  class="largebanner">By continuing to visit this site, you accept the use of cookies by Google Analytics for statistical purposes.</span>
+	<a id="cookie-notice-accept" class="btn-cookie-consent">Approve</a>
+        <a href="/privacy-policy/arcdale.com" class="btn-cookie-consent-link">More info</a>
+ </div>
+    
+<script>
+        function createCookie(name,value,days) {
+        	var expires = "";
+            	if (days) {
+                	var date = new Date();
+                	date.setTime(date.getTime() + (days*24*60*60*1000));
+                	expires = "; expires=" + date.toUTCString();
+ 		          }
+            	document.cookie = name + "=" + value + expires + "; path=/";
+        }
+
+        function readCookie(name) {
+	      	var nameEQ = name + "=";
+        	var ca = document.cookie.split(';');
+            	for(var i=0;i < ca.length;i++) {
+               		 var c = ca[i];
+                	while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                	if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            	}
+            	return null;
+        }
+
+        function eraseCookie(name) {
+            createCookie(name,"",-1);
+        }
+
+  	/*This function will load script and call the callback once the script has loaded*/
+	  function loadScriptAsync(scriptSrc, callback) {
+      		if (typeof callback !== 'function') {
+          		throw new Error('Not a valid callback for async script load');
+    		  }
+    		  var script = document.createElement('script');
+    		  script.onload = callback;
+    		  script.src = scriptSrc;
+   		  document.head.appendChild(script);
+  	}
+
+  if(readCookie('cookie-notice-dismissed')=='true') {
+	  /* This is the part where you call the above defined function and "call back" your code which gets executed after the script has loaded */
+		loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-KRNQR5PC5G', function(){
+    			window.dataLayer = window.dataLayer || [];
+    			function gtag(){dataLayer.push(arguments);}
+    			gtag('js', new Date());
+    			gtag('config', 'G-KRNQR5PC5G', { 'anonymize_ip': true });
+		      })
+  } else {
+ 		document.getElementById('cookie-notice').style.display = 'block';
+ 	}
+
+  document.getElementById('cookie-notice-accept').addEventListener("click",function() {
+    createCookie('cookie-notice-dismissed','true',31);
+    document.getElementById('cookie-notice').style.display = 'none';	
+		/* 
+        		On Safari this does not work correctly
+			location.reload();
+       			so use this instead from user2979995 as described here._
+    		 	https://stackoverflow.com/questions/7641584/javascript-page-refresh-in-safari
+		*/
+		function refresh() {
+ 			 var url = location.origin;
+  			var pathname = location.pathname;
+  			var hash = location.hash;
+  			location = url + pathname + '?application_refresh=' + (Math.random() * 100000) + hash;
+		}
+   refresh()
+  });
+
+	</script>
