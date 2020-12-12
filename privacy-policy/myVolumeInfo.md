@@ -1,3 +1,10 @@
+---
+title: myVolumeInfo privacy policy 
+description: Privacy policy for myVolumeInfo iOS app.
+headertitle: Arcdale Software
+headerdesc:  iOS and macOS Apps
+---
+
 # myVolumeInfo Privacy Policy
 
 ## 1) What Information is Collected and Why?
