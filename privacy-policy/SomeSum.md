@@ -1,3 +1,10 @@
+---
+title: SomeSum privacy policy 
+description: Privacy policy for SomeSum iOS and macOS app.
+headertitle: Arcdale Software
+headerdesc:  iOS and macOS Apps
+---
+
 # SomeSum Privacy Policy
 
 ## 1) What Information is Collected and Why?
