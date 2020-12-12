@@ -1,3 +1,10 @@
+---
+title: MapSOS privacy policy 
+description: Privacy policy for MapSOS iOS app.
+headertitle: Arcdale Software
+headerdesc:  iOS and macOS Apps
+---
+
 # MapSOS Privacy Policy
 
 ## 1) What Information is Collected and Why?
