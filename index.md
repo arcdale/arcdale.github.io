@@ -32,7 +32,7 @@ hr.rounded {
 </style>	
 
 <center> <h2   style="text-align: center;"><a href="MapSOS/MapSOS.html" style="color:#159957">MapSOS - iPhone / iPad</a></h2></center>
-<center> <h3><a href="MapSOS/MapSOS.html" style="color:#159957">Find your location world-wide and share it fast .</a></h3> </center>
+<center> <h3><a href="MapSOS/MapSOS.html" style="color:#159957">Find your location world-wide and share it fast</a></h3> </center>
 <p align="center">
   <a href="MapSOS/MapSOS.html"/>
   <img src="MapSOS/MapSOSweb.png" alt="MapSOS iOS app icon"/>
